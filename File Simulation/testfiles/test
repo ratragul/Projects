@@ -1,0 +1,6 @@
+i myfs
+s
+c file1 4 ffff
+s
+p
+x
